@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">
+        <b><i>
+            Fun - Trivia
+        </i></b>
+    </string>
+    <string name="skip">SKIP</string>
+    <string name="prev">PREV</string>
+    <string name="score_0">SCORE : 0</string>
+</resources>
